@@ -19,7 +19,7 @@ export function CardPlanta({ data }) {
             backgroundColor: "#32A060",
             width: 260,
             paddingHorizontal: 20,
-            paddingVertical: 30,
+            paddingVertical: 35,
             borderRadius: 25,
             marginRight: 10,
           }}
