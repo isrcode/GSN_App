@@ -39,7 +39,7 @@ export function CardPlanta({ data }) {
           >
             {data.name}
           </Text>
-          <Text style={{ color: "white", fontSize: 14 }}>
+          <Text style={{ color: "white", fontSize: 13 }}>
             {data.description}
           </Text>
         </View>
